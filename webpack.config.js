@@ -20,6 +20,11 @@ module.exports = {
                     'babel-loader',
                 ],
             },
+            {
+                test: /\.ts$/,
+                use: 'ts-loader',
+                exclude: /node_modules/,
+            },
         ],
     },
     plugins: [new HtmlWebpackPlugin({
