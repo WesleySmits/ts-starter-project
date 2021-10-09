@@ -1,7 +1,7 @@
 {
     "name": "ts-starter-project",
     "version": "1.0.0",
-    "description": "Simple TypeScript starter project",
+    "description": "Simple TypeScript starter project for building TypeScript web projects",
     "main": "index.js",
     "scripts": {
         "build": "webpack",
@@ -16,7 +16,22 @@
         "type": "git",
         "url": "git+https://github.com/WesleySmits/ts-starter-project.git"
     },
-    "keywords": [],
+    "keywords": [
+        "typescript",
+        "starter",
+        "template",
+        "boilerplate",
+        "library",
+        "jest",
+        "cypress",
+        "eslint",
+        "prettier",
+        "editorconfig",
+        "yarn",
+        "babel",
+        "postcss",
+        "webpack"
+    ],
     "author": "",
     "license": "ISC",
     "bugs": {
