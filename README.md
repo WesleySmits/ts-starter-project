@@ -15,3 +15,5 @@ Simple TypeScript starter project
 Before you start developing consider downloading an editor [with good TypeScript support](https://github.com/Microsoft/TypeScript/wiki/TypeScript-Editor-Support) if you aren't already using one.
 
 [Visual Studio Code](https://code.visualstudio.com/) is a very popular option and offers amazing support for TypeScript. This ensures good autocompletion, inline documentation and code refactoring features. Also I'd recommend installing editor extensions for Jest, Prettier and ESLint. These extensions will format your code, give live updates on errors and run tests automatically as you develop so you can focus on the features and let your set-up do the rest.
+
+If you want to read more about how this starter came to be check out [this tutorial](https://javascript.plainenglish.io/a-beginners-guide-to-creating-a-typescript-starter-project-6129deeeb973).
